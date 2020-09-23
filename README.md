@@ -1,3 +1,4 @@
+```
 usage: randl [-h] [-s SEED] file n
 
 Retrieves a random sample of lines from a file.
@@ -10,3 +11,4 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -s SEED, --seed SEED  seed value for the pseudo-random algorithm
+```
